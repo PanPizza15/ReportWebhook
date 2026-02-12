@@ -13,16 +13,4 @@ A lightweight Paper plugin that allows players to report others using `/report` 
 - Configurable webhook URL
 - Lightweight and async-safe
 
----
-
-## Requirements
-
-- Paper 1.20+ (tested on 1.21.x)
-- Java 21
-- Maven (to build from source)
-
----
-
-## Installation
-
-1. Download or build the plugin:
+Tested on Paper 1.21.x
