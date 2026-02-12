@@ -13,4 +13,5 @@ A lightweight Paper plugin that allows players to report others using `/report` 
 - Configurable webhook URL
 - Lightweight and async-safe
 
-Tested on Paper 1.21.x
+---
+Made by fishyramen
